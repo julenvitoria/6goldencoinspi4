@@ -15,4 +15,4 @@ echo "Conexion con GitHub.com establecida, continuando..."
 sleep 2
 echo "Actualizando menu Addons..."
 sleep 1
-wget -O- https://raw.githubusercontent.com/julenvitoria/6goldencoins/main/menu-addons/Actualizar.sh | bash
+wget -O- https://raw.githubusercontent.com/julenvitoria/6goldencoinspi4/main/menu-addons/Actualizar.sh | bash
